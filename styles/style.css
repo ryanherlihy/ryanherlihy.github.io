@@ -5,6 +5,17 @@ body {
   background-size: cover;
 }
 
+.artwork {
+  height: 300px;
+  background-image: url('../images/Sunset.0001.jpg');
+  background-size: cover;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 /*.container {
   margin-left: 10%;
   margin-right: 10%;
